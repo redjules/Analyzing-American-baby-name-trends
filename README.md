@@ -1,4 +1,4 @@
-# Analyzing-American-baby-name-trends
+# Analyzing American baby name trends
 
 In this project, I've studied data provided by the U.S. Social Security Administration containing first names, which were given to over 5,000 American babies each year for the period of 101 years. The main goal is to understand how American baby name tastes changed by investigating trends of popularity. In particular, we're going to discover:
 
